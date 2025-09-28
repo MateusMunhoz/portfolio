@@ -26,7 +26,7 @@ Sou um Cientista da Computação com forte interesse em desenvolvimento Full-Sta
         Conectar design e funcionalidade de forma harmoniosa.
 
     Como Cientista da Computação, minha experiência abrange desde a programação otimizada e de baixo nível com C/C++, passando pela criação de aplicações robustas com C# e back-ends ágeis com Python, até a estruturação fundamental da web com HTML. Essa diversidade me capacita a desenvolver soluções full-stack, conectando a lógica do servidor à experiência do usuário com eficiência e profundidade técnica.
-    
+  
     Lista de projetos:
 
 Calculadora em Python com GUI: https://github.com/MateusMunhoz/PythonCalculadora/tree/main - Finalizado
